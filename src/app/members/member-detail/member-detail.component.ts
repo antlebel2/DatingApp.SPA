@@ -48,5 +48,5 @@ export class MemberDetailComponent implements OnInit {
     }
     return imageUrls;
   }
-  
+
 }
